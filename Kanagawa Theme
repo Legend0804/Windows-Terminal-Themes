@@ -1,0 +1,23 @@
+{
+            "background": "#1F1F28",
+            "black": "#1F1F28",
+            "blue": "#7FB4CA",
+            "brightBlack": "#2A2A37",
+            "brightBlue": "#7FB4CA",
+            "brightCyan": "#A3D4D5",
+            "brightGreen": "#98BB6C",
+            "brightPurple": "#957FB8",
+            "brightRed": "#FF5D62",
+            "brightWhite": "#DCD7BA",
+            "brightYellow": "#E6C384",
+            "cursorColor": "#DCD7BA",
+            "cyan": "#A3D4D5",
+            "foreground": "#DCD7BA",
+            "green": "#98BB6C",
+            "name": "Kanagawa",
+            "purple": "#957FB8",
+            "red": "#FF5D62",
+            "selectionBackground": "#DCD7BA",
+            "white": "#DCD7BA",
+            "yellow": "#E6C384"
+      }
